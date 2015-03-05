@@ -1,4 +1,6 @@
-#Code for reading data and creating PLOT 4
+#Code for reading data and creating PLOT 4 assuming data is already downloaded and unzipped in your working directory,
+#else first download data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+
 
 
 #READING AND FILTERING DATA BASED ON DATE
